@@ -20,5 +20,7 @@ language: it
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Storia delle cinque gloriose giornate di Milano nel 1848
 url: http://www.gutenberg.org/ebooks/46941
